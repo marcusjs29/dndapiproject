@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dndapiproject/static/css/main.99e4cf39.css",
+    "main.js": "/dndapiproject/static/js/main.d8270907.js",
+    "index.html": "/dndapiproject/index.html",
+    "main.99e4cf39.css.map": "/dndapiproject/static/css/main.99e4cf39.css.map",
+    "main.d8270907.js.map": "/dndapiproject/static/js/main.d8270907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e4cf39.css",
+    "static/js/main.d8270907.js"
+  ]
+}
